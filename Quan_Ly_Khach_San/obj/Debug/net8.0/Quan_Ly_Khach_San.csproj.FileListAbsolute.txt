@@ -1,0 +1,14 @@
+D:\OOP C_Sharp\Project 7 (Quản lý khách sạn)\Quan_Ly_Khach_San\Quan_Ly_Khach_San\bin\Debug\net8.0\Quan_Ly_Khach_San.exe
+D:\OOP C_Sharp\Project 7 (Quản lý khách sạn)\Quan_Ly_Khach_San\Quan_Ly_Khach_San\bin\Debug\net8.0\Quan_Ly_Khach_San.deps.json
+D:\OOP C_Sharp\Project 7 (Quản lý khách sạn)\Quan_Ly_Khach_San\Quan_Ly_Khach_San\bin\Debug\net8.0\Quan_Ly_Khach_San.runtimeconfig.json
+D:\OOP C_Sharp\Project 7 (Quản lý khách sạn)\Quan_Ly_Khach_San\Quan_Ly_Khach_San\bin\Debug\net8.0\Quan_Ly_Khach_San.dll
+D:\OOP C_Sharp\Project 7 (Quản lý khách sạn)\Quan_Ly_Khach_San\Quan_Ly_Khach_San\bin\Debug\net8.0\Quan_Ly_Khach_San.pdb
+D:\OOP C_Sharp\Project 7 (Quản lý khách sạn)\Quan_Ly_Khach_San\Quan_Ly_Khach_San\obj\Debug\net8.0\Quan_Ly_Khach_San.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOP C_Sharp\Project 7 (Quản lý khách sạn)\Quan_Ly_Khach_San\Quan_Ly_Khach_San\obj\Debug\net8.0\Quan_Ly_Khach_San.AssemblyInfoInputs.cache
+D:\OOP C_Sharp\Project 7 (Quản lý khách sạn)\Quan_Ly_Khach_San\Quan_Ly_Khach_San\obj\Debug\net8.0\Quan_Ly_Khach_San.AssemblyInfo.cs
+D:\OOP C_Sharp\Project 7 (Quản lý khách sạn)\Quan_Ly_Khach_San\Quan_Ly_Khach_San\obj\Debug\net8.0\Quan_Ly_Khach_San.csproj.CoreCompileInputs.cache
+D:\OOP C_Sharp\Project 7 (Quản lý khách sạn)\Quan_Ly_Khach_San\Quan_Ly_Khach_San\obj\Debug\net8.0\Quan_Ly_Khach_San.dll
+D:\OOP C_Sharp\Project 7 (Quản lý khách sạn)\Quan_Ly_Khach_San\Quan_Ly_Khach_San\obj\Debug\net8.0\refint\Quan_Ly_Khach_San.dll
+D:\OOP C_Sharp\Project 7 (Quản lý khách sạn)\Quan_Ly_Khach_San\Quan_Ly_Khach_San\obj\Debug\net8.0\Quan_Ly_Khach_San.pdb
+D:\OOP C_Sharp\Project 7 (Quản lý khách sạn)\Quan_Ly_Khach_San\Quan_Ly_Khach_San\obj\Debug\net8.0\Quan_Ly_Khach_San.genruntimeconfig.cache
+D:\OOP C_Sharp\Project 7 (Quản lý khách sạn)\Quan_Ly_Khach_San\Quan_Ly_Khach_San\obj\Debug\net8.0\ref\Quan_Ly_Khach_San.dll
